@@ -1,0 +1,2 @@
+git branch   =    PARA SABER CUANTAS RAMAS TENGO
+git checkout master   =   PARA CAMBIAR DE RAMA

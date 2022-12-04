@@ -1,0 +1,8 @@
+git init
+git status
+git remote -v
+git push origin master
+git checkout -b main        =    AUMENTAR OTRA RAMA
+git add .
+git commit -m "nueva rama"
+git push origin main
