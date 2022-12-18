@@ -1,0 +1,56 @@
+h1 {color: #b0185d;
+    font-family: 'Chivo Mono',sans-serif;
+background-color: rgb(13, 133, 89);}
+
+
+    p {font-family: Georgia;}
+
+ .parrafo {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-decoration-line: overline;
+    
+}
+
+.link-a {font-size: large;
+text-decoration: none;
+font-family:'Dancing Script', cursive;
+color: #000;
+
+}
+
+body {
+font-family: 'Franklin Gothic Medium';
+
+}
+
+ol {
+    background-color: rgba(10, 163, 25,0.6);
+    color: blueviolet;
+}
+
+.span1 {font-family: cursive;
+color: beige;
+}
+.span2 {text-decoration: dotted;
+color: chartreuse;}
+.span3 {text-decoration: underline;}
+.span3 {text-decoration: transparent;}
+.span5 {text-decoration: aqua;}
+.span6 {text-transform: full-width;}
+
+@font-face {
+    font-family: 'Pacifico';
+    src: url(../fonts/Pacifico/Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family:'Pasion' ;
+    src: url(../fonts/Passions_Conflict/PassionsConflict-Regular.ttf);
+}
+
+
+.titulo2 {font-family:'Pacifico',cursive ;}
+.parrafo2 {font-family:'Pasion';font-size: 50px ;text-decoration: overline;}

@@ -1,0 +1,13 @@
+git init  = inicializa el git
+
+git config --global user.mail "reparo_pc@hotmail.com"
+git config --global user.name "roiser"
+
+git add . =añade a stage area
+
+git remote add origin (uta del repositorio)
+
+git commit - m "comentario del estado dle archivo" 
+
+git push origin master
+
